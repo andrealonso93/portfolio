@@ -1,0 +1,28 @@
+body {
+  background-color: lightgray;
+}
+
+.header{
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.content{
+    background-color: white;
+    width: max-content;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.flex-container {
+  display: flex; /* Aligns children in a row by default */
+  gap: 15px;      /* Adds spacing between the items */
+}
+
+.box {
+  flex: 1;        /* Forces all boxes to take up equal width */
+  padding: 20px;
+  background-color: #f0f0f0;
+  cursor: pointer;
+}

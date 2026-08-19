@@ -1,0 +1,41 @@
+# ==============================================================================
+# ENVIRONMENT VARIABLES
+# ==============================================================================
+@baseUrl = http://localhost:5237
+
+###
+
+# ==============================================================================
+# GET REQUESTS
+# ==============================================================================
+
+# 1. Simple GET request to fetch a list of items
+GET {{baseUrl}}/all
+Accept: application/json
+
+###
+
+# 3. GET an specific item by ID
+GET {{baseUrl}}/get/1
+Accept: application/json
+
+###
+
+# ==============================================================================
+# POST REQUESTS
+# ==============================================================================
+
+# 4. POST request to add a value to the dictionary
+POST {{baseUrl}}/add/Example Value
+Content-Type: application/json
+
+###
+
+# 5. PUT request to update a value in the dictionary
+PUT {{baseUrl}}/update/1/Updated Value
+Content-Type: application/json
+
+###
+
+# 6. DELETE request to remove a value from the dictionary
+DELETE {{baseUrl}}/delete/1
