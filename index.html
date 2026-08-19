@@ -1,11 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
+    <link rel="stylesheet" href="styles.css">
     <meta charset="UTF-8">
     <title>My Portfolio</title>
 </head>
+
 <body>
-    <h1>Welcome to My Portfolio</h1>
-    <p>Hi, I am a developer. Check out my work!</p>
+    <div class="flex-container">
+        <div class="header">
+            <h1>Welcome to my Portfolio</h1>
+            <p>Hi, I am a backend developer mainly focused on .Net but sometimes working on other technologies.</p>
+        </div>
+        <div class="content">
+            <h2>About Me</h2>
+            <p>I am a passionate backend developer with a strong focus on .NET technologies. I enjoy building scalable
+                and
+                efficient applications.</p>
+            <p>In this page I'll add links to my repositories where I keep examples of useful examples.</p>
+        </div>
+    </div>
+    </br>
+    
+    <div class="flex-container">
+
+        <div class="box" onclick="window.open('https://github.com/andrealonso93/potfolio/blob/main/projects/minimal-api/README.md', '_blank');">
+            <h3>.Net Minimal API</h3>
+            <p>Example of a simple .NET Minimal API implementation.</p>
+        </div>
+        <div class="box" onclick="window.open('https://github.com/andrealonso93/cms-domain', '_blank');">
+            <h3>CMS Domain</h3>
+            <p>Example of a simple CMS domain implementation.</p>
+            <p style="color: red"> * Example only</p>
+        </div>
+    </div>
 </body>
+
 </html>
