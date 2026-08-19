@@ -19,8 +19,8 @@ x86/
 *.sln.docstates
 
 # .NET Core / ASP.NET
-bin/
-obj/
+*/bin/
+*/obj/
 *.dll
 *.exe
 *.app
