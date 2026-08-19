@@ -1,0 +1,52 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]uild/
+[Bb]uilds/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# .NET Core / ASP.NET
+bin/
+obj/
+*.dll
+*.exe
+*.app
+*.appx
+*.appxbundle
+*.msi
+*.msm
+*.msp
+*.snk
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+
+# Rider / ReSharper
+.idea/
+*.sln.iml
+*.DotSettings.user
+
+# Test results
+TestResults/
+*.trx
+
+# Misc
+*.log
+*.tmp
+*.temp
