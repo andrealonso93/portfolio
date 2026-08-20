@@ -1,0 +1,15 @@
+/home/andre/git/portfolio/projects/AlgorithmsExercises/bin/Debug/net10.0/AlgorithmsExercises
+/home/andre/git/portfolio/projects/AlgorithmsExercises/bin/Debug/net10.0/AlgorithmsExercises.deps.json
+/home/andre/git/portfolio/projects/AlgorithmsExercises/bin/Debug/net10.0/AlgorithmsExercises.runtimeconfig.json
+/home/andre/git/portfolio/projects/AlgorithmsExercises/bin/Debug/net10.0/AlgorithmsExercises.dll
+/home/andre/git/portfolio/projects/AlgorithmsExercises/bin/Debug/net10.0/AlgorithmsExercises.pdb
+/home/andre/git/portfolio/projects/AlgorithmsExercises/obj/Debug/net10.0/AlgorithmsExercises.GeneratedMSBuildEditorConfig.editorconfig
+/home/andre/git/portfolio/projects/AlgorithmsExercises/obj/Debug/net10.0/AlgorithmsExercises.AssemblyInfoInputs.cache
+/home/andre/git/portfolio/projects/AlgorithmsExercises/obj/Debug/net10.0/AlgorithmsExercises.AssemblyInfo.cs
+/home/andre/git/portfolio/projects/AlgorithmsExercises/obj/Debug/net10.0/AlgorithmsExercises.csproj.CoreCompileInputs.cache
+/home/andre/git/portfolio/projects/AlgorithmsExercises/obj/Debug/net10.0/AlgorithmsExercises.sourcelink.json
+/home/andre/git/portfolio/projects/AlgorithmsExercises/obj/Debug/net10.0/AlgorithmsExercises.dll
+/home/andre/git/portfolio/projects/AlgorithmsExercises/obj/Debug/net10.0/refint/AlgorithmsExercises.dll
+/home/andre/git/portfolio/projects/AlgorithmsExercises/obj/Debug/net10.0/AlgorithmsExercises.pdb
+/home/andre/git/portfolio/projects/AlgorithmsExercises/obj/Debug/net10.0/AlgorithmsExercises.genruntimeconfig.cache
+/home/andre/git/portfolio/projects/AlgorithmsExercises/obj/Debug/net10.0/ref/AlgorithmsExercises.dll
