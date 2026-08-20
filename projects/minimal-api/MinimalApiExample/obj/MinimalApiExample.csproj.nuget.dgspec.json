@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/andre/git/potfolio/projects/minimal-api/MinimalApiExample/MinimalApiExample.csproj": {}
+    "/home/andre/git/portfolio/projects/minimal-api/MinimalApiExample/MinimalApiExample.csproj": {}
   },
   "projects": {
-    "/home/andre/git/potfolio/projects/minimal-api/MinimalApiExample/MinimalApiExample.csproj": {
+    "/home/andre/git/portfolio/projects/minimal-api/MinimalApiExample/MinimalApiExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/andre/git/potfolio/projects/minimal-api/MinimalApiExample/MinimalApiExample.csproj",
+        "projectUniqueName": "/home/andre/git/portfolio/projects/minimal-api/MinimalApiExample/MinimalApiExample.csproj",
         "projectName": "MinimalApiExample",
-        "projectPath": "/home/andre/git/potfolio/projects/minimal-api/MinimalApiExample/MinimalApiExample.csproj",
+        "projectPath": "/home/andre/git/portfolio/projects/minimal-api/MinimalApiExample/MinimalApiExample.csproj",
         "packagesPath": "/home/andre/.nuget/packages/",
-        "outputPath": "/home/andre/git/potfolio/projects/minimal-api/MinimalApiExample/obj/",
+        "outputPath": "/home/andre/git/portfolio/projects/minimal-api/MinimalApiExample/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/andre/.nuget/NuGet/NuGet.Config"
