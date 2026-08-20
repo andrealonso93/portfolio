@@ -18,4 +18,5 @@ So it's necessary to add the nuget package:
 ` dotnet add package Microsoft.Extensions.Hosting `
 
 In Program.cs you can see that the hos.RunAsync() method is not awaited, this is what "unblocks" the main thread to continue to the loop that writes the '#' character.
-If we add the await to it, then the loop is treated as continuation and only the hosted serice runs.
+If we add the await to it, then the loop is treated as continuation and only the hosted service runs.
+In the other hand, if the full application is only the hosted background services, then the await is necessary to keep the host running while the service doesn't receive a cancellation through the CancellationToken.
