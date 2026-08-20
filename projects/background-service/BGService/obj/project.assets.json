@@ -1523,11 +1523,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/andre/git/potfolio/projects/background-service/BGService/BGService.csproj",
+      "projectUniqueName": "/home/andre/git/portfolio/projects/background-service/BGService/BGService.csproj",
       "projectName": "BGService",
-      "projectPath": "/home/andre/git/potfolio/projects/background-service/BGService/BGService.csproj",
+      "projectPath": "/home/andre/git/portfolio/projects/background-service/BGService/BGService.csproj",
       "packagesPath": "/home/andre/.nuget/packages/",
-      "outputPath": "/home/andre/git/potfolio/projects/background-service/BGService/obj/",
+      "outputPath": "/home/andre/git/portfolio/projects/background-service/BGService/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/andre/.nuget/NuGet/NuGet.Config"
