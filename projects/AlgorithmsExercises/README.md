@@ -12,5 +12,6 @@ All files will have an invocation method to easily invoke it at the Program.cs
 1. Check a string is balanced (CheckBalancedString.cs)
     - When all openning chars are closed in the correct order, it should write "Balanced" if not "Unbalanced";
 
-2. Get the sum of all multiples of 3 or 5 below the provided number
-3. Get the sum of all even number in the Fibonacci sequence that do not exceed the provided number 
+2. Get the sum of all multiples of 3 or 5 below the provided number (MultiplesOf3Or5.cs)
+3. Get the sum of all even number in the Fibonacci sequence that do not exceed the provided number (FibonacciEvenSum.cs)
+4. Find the largest prime factor of a number (LargestPrimeFactor.cs)
