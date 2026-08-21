@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/projects/">
+    <Project Path="projects/AlgorithmsExercises/AlgorithmsExercises.csproj" />
+  </Folder>
+  <Folder Name="/projects/background-service/">
+    <Project Path="projects/background-service/BGService/BGService.csproj" />
+  </Folder>
+  <Folder Name="/projects/minimal-api/">
+    <Project Path="projects/minimal-api/MinimalApiExample/MinimalApiExample.csproj" />
+  </Folder>
+</Solution>
