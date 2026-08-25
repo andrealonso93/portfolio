@@ -2,5 +2,6 @@
 // MultiplesOf3Or5.Run();
 // FibonacciEvenSum.Run();
 // LargestPrimeFactor.Run();
-
-LargestPalindrome.Run();
+//LargestPalindrome.Run();
+//SmallestMultiple.Run();
+NthPrimeNumber.Run();
