@@ -15,4 +15,7 @@ All files will have an invocation method to easily invoke it at the Program.cs
 2. Get the sum of all multiples of 3 or 5 below the provided number (MultiplesOf3Or5.cs)
 3. Get the sum of all even number in the Fibonacci sequence that do not exceed the provided number (FibonacciEvenSum.cs)
 4. Find the largest prime factor of a number (LargestPrimeFactor.cs)
-5. Find the largest palindrome posible with 2 numbers with the amount of digits informed.
+5. Find the largest palindrome posible with 2 numbers with the amount of digits informed. (LargestPalindrome.cs)
+6. Find the smallest multiple from 1 to the provided number (SmallestMultiple.cs)
+7. Find the N th prime number (N is providede) (FindNTHPrimeNumber.cs)
+8. Find the largest product of N digits of a 1000 digit int array (LargestProductInSeries.cs)

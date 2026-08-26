@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BGService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da69631d070381ba9b181abf3d2edebd29b11cff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c535f6ba2b3298b899c18a05a61760bede480e8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BGService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BGService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

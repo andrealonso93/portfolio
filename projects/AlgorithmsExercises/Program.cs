@@ -4,4 +4,5 @@
 // LargestPrimeFactor.Run();
 //LargestPalindrome.Run();
 //SmallestMultiple.Run();
-NthPrimeNumber.Run();
+//NthPrimeNumber.Run();
+LargestProductInSeries.Run();
