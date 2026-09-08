@@ -4,4 +4,7 @@
 // LargestPrimeFactor.Run();
 //LargestPalindrome.Run();
 //SmallestMultiple.Run();
-NthPrimeNumber.Run();
+// NthPrimeNumber.Run();
+//PrimesSum.Run();
+//TwoThousandthSecondSquareOddSum.Run();
+LatticePaths.Run();
